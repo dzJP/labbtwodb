@@ -1,5 +1,3 @@
-# labbtwodb
-
 # Laboration 2
 
 > To check if a database container is running type <strong>docker ps.</strong>
@@ -13,4 +11,8 @@
 >> mysql -uroot -p
 >
 >> root
-> You should now be inside. 
+>
+> You should now be inside.
+
+
+
