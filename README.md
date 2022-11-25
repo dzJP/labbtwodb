@@ -1,2 +1,6 @@
 # labbtwodb
-labb 2
+
+# Laboration 2
+
+> 1. Create new git repo and clone from remote to local.
+
