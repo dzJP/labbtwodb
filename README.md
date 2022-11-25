@@ -1,7 +1,6 @@
-# labbtwodb
-
 # Laboration 2
 
+<h3>______________________________________________________________________________________________</h3>
 > To check if a database container is running type <strong>docker ps.</strong>
 >
 > To start a database container type <strong>docker start iths-mysql.</strong> (requires a mysql)
@@ -13,4 +12,8 @@
 >> mysql -uroot -p
 >
 >> root
-> You should now be inside. 
+>
+> You should now be inside.
+
+<h3>________________________________________________________________________________________________</h3>
+
