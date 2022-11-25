@@ -6,9 +6,10 @@
 >
 > To connect to our database type <strong>(winpty)docker exec -it iths-mysql bash.</strong>
 >
-> Login:
+> <h3><strong>Login:</strong></h3>
 >
 >> mysql -uroot -p
 >
 >> root
+>
 > You should now be inside. 
